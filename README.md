@@ -18,17 +18,17 @@ Mechanical Engineering student at the **University of Central Florida (Class of 
 
 ### 🚀 Featured Engineering Projects
 
-#### 1. [NACA Airfoil Aerodynamic & CFD Analysis](https://github.com)
+#### 1. [NACA Airfoil Aerodynamic & CFD Analysis](https://github.com/bgabby505/naca-airfoil-cfd)
 * **Tools:** SolidWorks, SolidWorks Flow Simulation
 * **Overview:** Modeled a wing profile using NACA airfoil database coordinates and ran a 30-second transient CFD simulation across an increasing angle of attack (-2° to 10°).
 * **Key Results:** Generated performance curves for Lift, Drag, $L/D$ ratio, $C_L$, and $C_D$, capturing flow trajectories and achieving a peak lift of **918 kN**.
 
-#### 2. [Structural Truss FEA & Vibration Analysis](https://github.com)
+#### 2. [Structural Truss FEA & Vibration Analysis](https://github.com/bgabby505/Truss-Fea-Vibration)
 * **Tools:** SolidWorks Simulation (FEA)
 * **Overview:** Modeled a multi-member structural truss and performed static Finite Element Analysis alongside modal vibration testing under applied loading conditions.
 * **Key Results:** Evaluated stress distributions, natural frequencies, and deformation behavior, visualizing inward center-bending deflection through displacement animations.
 
-#### 3. [Front Loader Component Generative Design](https://github.com)
+#### 3. [Front Loader Component Generative Design](https://github.com/bgabby505/Front-Loader-Generative-Design)
 * **Tools:** Autodesk Fusion 360 (Generative Design)
 * **Overview:** Redesigned a heavy-duty front loader structural component using generative design constraints to minimize mass while maintaining structural integrity.
 * **Key Results:** Evaluated multiple manufacturing-constrained outcomes and identified **casting** as the optimal production method for weight reduction and manufacturability.
