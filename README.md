@@ -33,7 +33,7 @@ Mechanical Engineering student at the **University of Central Florida (Class of 
 * **Overview:** Redesigned a heavy-duty front loader structural component using generative design constraints to minimize mass while maintaining structural integrity.
 * **Key Results:** Evaluated multiple manufacturing-constrained outcomes and identified **casting** as the optimal production method for weight reduction and manufacturability.
 
-#### 4. [Composite Elastic Modulus Estimator (Stiffness Averaging)](https://github.com)
+#### 4. [Composite Elastic Modulus Estimator (Stiffness Averaging)]([https://github.com](https://github.com/bgabby505/Stiffness-Averaging-Matlab))
 * **Tools:** MATLAB
 * **Overview:** Programmed a numerical solver implementing the stiffness averaging method to estimate the effective elastic modulus of composite/multi-phase materials.
 * **Key Results:** Automated analytical stiffness calculations to evaluate material properties across varying constituent parameters.
